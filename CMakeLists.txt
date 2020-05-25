@@ -3,4 +3,4 @@ project(InternetMapping C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(InternetMapping main.c)
+add_executable(InternetMapping main.c requests.h requests.c main.h)

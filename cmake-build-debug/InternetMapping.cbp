@@ -81,6 +81,15 @@
 		<Unit filename="/Users/djt/CLionProjects/InternetMapping/main.c">
 			<Option target="InternetMapping"/>
 		</Unit>
+		<Unit filename="/Users/djt/CLionProjects/InternetMapping/main.h">
+			<Option target="InternetMapping"/>
+		</Unit>
+		<Unit filename="/Users/djt/CLionProjects/InternetMapping/requests.c">
+			<Option target="InternetMapping"/>
+		</Unit>
+		<Unit filename="/Users/djt/CLionProjects/InternetMapping/requests.h">
+			<Option target="InternetMapping"/>
+		</Unit>
 		<Unit filename="/Users/djt/CLionProjects/InternetMapping/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

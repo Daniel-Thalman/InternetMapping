@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/InternetMapping.dir/main.c.o"
+  "CMakeFiles/InternetMapping.dir/requests.c.o"
   "InternetMapping"
   "InternetMapping.pdb"
 )

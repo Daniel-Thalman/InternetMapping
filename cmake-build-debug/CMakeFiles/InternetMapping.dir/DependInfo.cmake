@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/djt/CLionProjects/InternetMapping/main.c" "/Users/djt/CLionProjects/InternetMapping/cmake-build-debug/CMakeFiles/InternetMapping.dir/main.c.o"
+  "/Users/djt/CLionProjects/InternetMapping/requests.c" "/Users/djt/CLionProjects/InternetMapping/cmake-build-debug/CMakeFiles/InternetMapping.dir/requests.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 
